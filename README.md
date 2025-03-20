@@ -64,6 +64,9 @@ sudo nc example.com 80
 
 ![WhatsApp Image 2025-03-08 at 08 59 20_e3d6726b](https://github.com/user-attachments/assets/2e9c6488-e2b7-4579-bd8f-53fc2e5c9aca)
 
+## httprint:
+
+![httprint](https://github.com/user-attachments/assets/7390da39-6351-483a-931c-d7adde56008b)
 
 
 # Tracing the Location
